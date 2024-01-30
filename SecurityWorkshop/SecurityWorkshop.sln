@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityWorkshop", "SecurityWorkshop\SecurityWorkshop.csproj", "{06840B80-4D58-404F-B95A-36B23A83DD49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecurityWorkshop", "SecurityWorkshop\SecurityWorkshop.csproj", "{06840B80-4D58-404F-B95A-36B23A83DD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityWorkshopAPI", "SecurityWorkshopAPI\SecurityWorkshopAPI.csproj", "{F41216C7-9487-4176-82C8-2B8C969D8524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{06840B80-4D58-404F-B95A-36B23A83DD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06840B80-4D58-404F-B95A-36B23A83DD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06840B80-4D58-404F-B95A-36B23A83DD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F41216C7-9487-4176-82C8-2B8C969D8524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41216C7-9487-4176-82C8-2B8C969D8524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41216C7-9487-4176-82C8-2B8C969D8524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41216C7-9487-4176-82C8-2B8C969D8524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
